@@ -1,9 +1,1 @@
-git clone https://github.com/ziad-rgb/ziad-rgb.github.io
-cd ziad-rgb.github.io
 
-echo "Hello World" > 
-
-
-git commit -m "Initial commit"
-
-git push -u origin main
